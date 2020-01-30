@@ -11,3 +11,6 @@ arXiv: https://arxiv.org/abs/1909.01008
 
 MATLAB framework to read datasets, run baseline algorithm, and write results to file:
 https://github.com/cevers/sap_locata_io.git
+
+LOCATA data:
+https://doi.org/10.5281/zenodo.3630470
