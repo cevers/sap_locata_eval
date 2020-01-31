@@ -7,8 +7,9 @@ C. Evers, H. Loellmann, H. Mellmann, A. Schmidt, H. Barfuss, P. A. Naylor, and W
 
 arXiv: https://arxiv.org/abs/1909.01008
 
-## LOCATA data:
-https://doi.org/10.5281/zenodo.3630470
+## Final release of the LOCAT dev & eval datasets
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3630471.svg)](https://doi.org/10.5281/zenodo.3630471)
 
 ## See also: LOCATA I/O Framework
 
